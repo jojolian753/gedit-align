@@ -1,0 +1,27 @@
+# Backup and bytecode files
+*.py[co]
+*~
+
+# packages
+*.egg
+*.egg-info
+dist/
+eggs
+parts
+bin/
+var/
+sdist
+develop-eggs
+.installed.cfg
+
+# installer logs
+pip-log.txt
+
+# unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# translations
+*.mo
+
